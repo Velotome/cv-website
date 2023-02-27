@@ -8,4 +8,4 @@ CSS : Tailwindcss
 
 ## Special Thanks
 
-Thanks to Guillaume for enduring all the messages I sent him each and every time I achieved something... or broke something :D
+Thanks to [Guillaume](https://github.com/Guillaume-prog) for enduring all the messages I sent him each and every time I achieved something... or broke something :D
